@@ -1,8 +1,7 @@
-et-xmlfile==2.0.0
-numpy==2.0.2
-openpyxl==3.1.5
-pandas==2.3.3
-python-dateutil==3.0.0
-pytz==2026.6
-six==1.17.0
-tzdata==2026.6
+
+playwright
+pandas
+pdfplumber
+python-dotenv
+2captcha-python
+ 

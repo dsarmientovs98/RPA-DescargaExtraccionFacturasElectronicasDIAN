@@ -1,10 +1,16 @@
-# Entornos virtuales
+
+# secretos
+.env
+ 
+# entornos y caché de Python
+venv/
 .venv/
-env/
-
-# Archivos de sistema macOS
-.DS_Store
-
-# Caché de Python
 __pycache__/
 *.pyc
+ 
+# sistema
+.DS_Store
+ 
+# evidencias de depuración (capturas y HTML)
+data/downloads/_debug/
+ 
